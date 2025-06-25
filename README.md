@@ -13,6 +13,7 @@ Create a precipitation prediction model that can inform a farmer if man-made irr
 
 #### Data Sources
 https://www.ncei.noaa.gov/access/past-weather/ohare
+
 Data is selected for O'Hare International Airport from October 9th, 1946 through June 22nd, 2025
 
 #### Methodology
@@ -26,9 +27,7 @@ Next steps include cross-validating multiple different hyperparameter values to 
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Link to notebook 1](https://github.com/Brian-Waskevich/Irrigation_Classifier/blob/main/Irrigation%20Classifier%20EDA.ipynb)
 
 
 ##### Contact and Further Information
